@@ -33,7 +33,6 @@
 | 📝 Cuestionario autocorregido 1 | [Abrir](https://script.google.com/macros/s/AKfycbxm8_L3RW4Yt8iHwqX-QxDUOE8owI9cQUOTd5RNde0_s_YZHzfUnhiG-rpom7whMnd9Xg/exec) |
 | 📝 Cuestionario autocorregido 2 | [Abrir](https://script.google.com/macros/s/AKfycbyIEBIO1B9LiY0z9mpPt32KfCgHsiFGHdNc681I6TLJG65kqsO3pKDR1Dug-fmjZ6-Vzg/exec) |
 
-> Google puede mostrar una advertencia de app no verificada al abrir el link por primera vez. Hacer clic en **Avanzado → Ir a [proyecto] (no seguro)** para continuar.
 
 ---
 
