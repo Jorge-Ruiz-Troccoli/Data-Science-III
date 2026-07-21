@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Demos en vivo — Introducción a Deep Learning
+## 🚀 Demos y Cuestionarios  — Introducción a Deep Learning
 
 | Herramienta | Link |
 |---|---|
