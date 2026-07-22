@@ -17,7 +17,7 @@
 ## 🗂️ Contenido del curso
 | Módulo | Tema |
 |-------|------|
-| [Introducción_DL](./Introducción_DL) | 🧠 Introducción a Deep Learning — [🔬 Laboratorio interactivo](https://script.google.com/macros/s/AKfycbyQCQKJgZSjv_AEECkOGNK4DgPhDxCnsjE8Qz_FMO5VHTYvVbV_D8S_0qBT440inRqApw/exec) · [📝 Cuestionario](https://script.google.com/macros/s/AKfycbxm8_L3RW4Yt8iHwqX-QxDUOE8owI9cQUOTd5RNde0_s_YZHzfUnhiG-rpom7whMnd9Xg/exec) · [📝 Cuestionario 2](https://script.google.com/macros/s/AKfycbyIEBIO1B9LiY0z9mpPt32KfCgHsiFGHdNc681I6TLJG65kqsO3pKDR1Dug-fmjZ6-Vzg/exec) |
+| [Introducción_DL](./Introducción_DL) | 🧠 Introducción a Deep Learning |
 | [Practicando_DL](./Practicando_DL) | 🏋️ Practicando Deep Learning |
 | [Introducción_Transformers](./Introducción_Transformers) | 🔀 Introducción a Transformers |
 | [Practicando_LLM](./Practicando_LLM) | 💬 Practicando LLM |
@@ -31,7 +31,7 @@
 |---|---|
 | 🔬 Laboratorio interactivo (Perceptrón, XOR, MLP, Backpropagation) | [Abrir](https://script.google.com/macros/s/AKfycby3TP6DPJf21PzrRZk5bEZwuWL3w9kjTzzKDWfvdmxan2-x1U7MtjdF_cpzQbh0jqYR/exec) |
 | 📝 Cuestionario autocorregido 1 | [Abrir](https://script.google.com/macros/s/AKfycbytWmG6WfNPTFVyZRjDzNLAt1FdBPOCJjH_qA6zJRBnvex1wVtGKxUI5pSxOtTewSfi2Q/exec) |
-| 📝 Cuestionario autocorregido 2 | [Abrir](https://script.google.com/macros/s/AKfycbyIEBIO1B9LiY0z9mpPt32KfCgHsiFGHdNc681I6TLJG65kqsO3pKDR1Dug-fmjZ6-Vzg/exec) |
+| 📝 Cuestionario autocorregido 2 | [Abrir](https://script.google.com/macros/s/AKfycbyTsI0FFi3VA8X64V9_sEy4V_QDlhujds1ldf1LIiLeV5FJklnq8CWV40BHubQ6bMwy7w/exec) |
 | 📝 Cuestionario autocorregido 3 | [Abrir](https://script.google.com/macros/s/AKfycbyjz19VH_dhZGlIPOa6TEaBvoYrDJV04tafJlbIfce9QXLA3nyisn35_rFJTKkzI5MelA/exec) |
 
 
