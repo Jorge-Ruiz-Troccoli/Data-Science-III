@@ -32,7 +32,7 @@
 | 🔬 Laboratorio interactivo (Perceptrón, XOR, MLP, Backpropagation) | [Abrir](https://script.google.com/macros/s/AKfycbyQCQKJgZSjv_AEECkOGNK4DgPhDxCnsjE8Qz_FMO5VHTYvVbV_D8S_0qBT440inRqApw/exec) |
 | 📝 Cuestionario autocorregido 1 | [Abrir](https://script.google.com/macros/s/AKfycbytWmG6WfNPTFVyZRjDzNLAt1FdBPOCJjH_qA6zJRBnvex1wVtGKxUI5pSxOtTewSfi2Q/exec) |
 | 📝 Cuestionario autocorregido 2 | [Abrir](https://script.google.com/macros/s/AKfycbyIEBIO1B9LiY0z9mpPt32KfCgHsiFGHdNc681I6TLJG65kqsO3pKDR1Dug-fmjZ6-Vzg/exec) |
-| 📝 Cuestionario autocorregido 3 | [Abrir](https://script.google.com/macros/s/AKfycbxW9Y9lsFzdrC0dyB6n2XqBAZaplGrIDe4c-z40A7QRu-ECe7Q6na3Z1PU2oILD2FS2zA/exec) |
+| 📝 Cuestionario autocorregido 3 | [Abrir](https://script.google.com/macros/s/AKfycbyjz19VH_dhZGlIPOa6TEaBvoYrDJV04tafJlbIfce9QXLA3nyisn35_rFJTKkzI5MelA/exec) |
 
 
 ---
